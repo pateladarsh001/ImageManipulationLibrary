@@ -18,7 +18,9 @@ Please note that the following requirements are suggested to make sure that the 
 	The header of a PGM file has the form:
 	
 	P2
+	
 	20 30
+	
 	255
 	
 	where P2 indicates a PGM file with ASCII encoding,
